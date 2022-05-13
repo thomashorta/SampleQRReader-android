@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleQRReader</string>
+    <string name="qr_code_found">QR Code Found\n%1$s</string>
+    <string name="qr_code_not_found">No QR Code</string>
+</resources>
